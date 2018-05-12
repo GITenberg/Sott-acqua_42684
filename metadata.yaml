@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3997
     wikipedia: http://it.wikipedia.org/wiki/Gerolamo_Rovetta
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42684#Sott-acqua
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2013-05-10'
 gutenberg_type: Text
